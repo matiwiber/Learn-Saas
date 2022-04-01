@@ -1,0 +1,1 @@
+//write a function named cityweather that returns an object
